@@ -21,7 +21,7 @@ public class Praktika2_2 {
     public static void main(String[] args) {
         System.out.println("Практическое задание - 2.2, Студент - Стрыгин Никита Владиславович, Группа - РИБО-03-22");
         System.out.println("Start program!");
-                String server = "https://android-for-students.ru";
+        String server = "https://android-for-students.ru";
         String serverPath = "/materials/practical/hello.php";
         HashMap<String, String> map = new HashMap();
         map.put("name", "Strygin");
